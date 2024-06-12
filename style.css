@@ -63,7 +63,7 @@ body {
 
 .happy {
     text-align: center;
-    left: 10%;
+    left: 5%;
     top: 84%;
     font-size: 1.5em;
     font-family: Tahoma, sans-serif;
@@ -109,4 +109,11 @@ p {
 
 .birthdayCard:hover .happy {
     visibility: hidden;
+}
+
+/* Mobile Phone */
+@media (max-width: 450px) {
+    html {
+        font-size: 55%;
+    }
 }
