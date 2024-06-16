@@ -118,12 +118,21 @@ p {
         text-align: center;
         left: 5%;
         top: 84%;
-        font-size: 1.5em;
         font-family: Tahoma, sans-serif;
         color: hotpink;
         position: absolute;
         transition: 0.1s;
         z-index: 6;
+    }
+
+    .cardFront {
+        width: 420px;
+        height: 640px;
+    }
+
+    .cardInside {
+        width: 420px;
+        height: 640px;
     }
 }
 
