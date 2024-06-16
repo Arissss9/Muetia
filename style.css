@@ -124,16 +124,6 @@ p {
         transition: 0.1s;
         z-index: 6;
     }
-
-    .cardFront {
-        width: 420px;
-        height: 640px;
-    }
-
-    .cardInside {
-        width: 420px;
-        height: 640px;
-    }
 }
 
 
