@@ -22,7 +22,7 @@ body {
 
 .cardFront {
     position: relative;
-    background-color: #fef0f8;
+    background-color: #ffb9e1;
     width: 420px;
     height: 640px;
     border-radius: 0 15px 15px 0;
@@ -67,7 +67,7 @@ body {
     top: 84%;
     font-size: 1.5em;
     font-family: Tahoma, sans-serif;
-    color: hotpink;
+    color: #ff0090;
     position: absolute;
     transition: 0.1s;
     z-index: 6;
@@ -75,7 +75,7 @@ body {
 
 .cardInside {
     position: absolute;
-    background-color: #fef0f8;
+    background-color: #ffb9e1;
     width: 420px;
     height: 640px;
     z-index: -1;
