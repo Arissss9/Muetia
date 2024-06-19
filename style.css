@@ -149,7 +149,7 @@ p {
         .bdHat {
         width: 60px;
         height: auto;
-        top: 0%;
+        top: 10%;
         left: 26%;
         transform: rotate(-30deg);
         position: absolute;
